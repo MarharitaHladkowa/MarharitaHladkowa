@@ -23,4 +23,4 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 📫 How to reach me:  
 
-[LinkedIn](https://www.linkedin.com/in/maharyta-hladkova) | [Telegram](https://t.me/MarharytaFullstackDeveloper) | [Email](margarita198700@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maharyta-hladkova) | [Telegram](https://t.me/MarharytaFullstackDeveloper) | [Email](mailto:margarita198700@gmail.com)
