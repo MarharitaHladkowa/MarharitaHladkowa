@@ -9,7 +9,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 💻Featured Projects  
 
-- [ArtistsHub](https://github.com/sandramomo/project-cyte)) – a collaborative project built on GitHub. My core contribution was the development of the "Feedback Section." I implemented a responsive design using a mobile-first approach, configured the API integration to fetch review data from the server, and built an interactive review slider utilizing the Swiper.js library.
+- [ArtistsHub](https://github.com/sandramomo/project-cyte) – a collaborative project built on GitHub. My core contribution was the development of the "Feedback Section." I implemented a responsive design using a mobile-first approach, configured the API integration to fetch review data from the server, and built an interactive review slider utilizing the Swiper.js library.
 
 - [Yoga Bloom App](https://github.com/MarharitaHladkowa/Yoga-app) – an independent project developed within a Scrum team environment. My role involved translating a Figma mockup into a pixel-perfect HTML/CSS solution for the "Feedback" section. I fully implemented the front-end functionality, including the interactive star rating system, focusing on high code quality and design fidelity.
 
