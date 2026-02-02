@@ -9,7 +9,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 💻Featured Projects  
 
-- Leleka - Leleka-LivePage - A Ukrainian web application for pregnant women: tracking pregnancy, baby development, and personal notes. Key pages: Dashboard, Journey, Diary, Profile, Onboarding. Features: registration & onboarding, automatic theme switching by baby’s gender, personalized dashboard, interactive Journey, full Diary functionality, responsive design, Next.js 15, Zustand, React Query, Formik + Yup. My contribution: developed registration & onboarding, Journey and Diary pages, optimized frontend for UX, Deputy Team Lead. More details in the Readme
+- [Leleka](https://github.com/MarharitaHladkowa/leleka-frontend) - A Ukrainian web application for pregnant women: tracking pregnancy, baby development, and personal notes. Key pages: Dashboard, Journey, Diary, Profile, Onboarding. Features: registration & onboarding, automatic theme switching by baby’s gender, personalized dashboard, interactive Journey, full Diary functionality, responsive design, Next.js 15, Zustand, React Query, Formik + Yup. My contribution: developed registration & onboarding, Journey and Diary pages, optimized frontend for UX, Deputy Team Lead. More details in the [Readme](https://github.com/MarharitaHladkowa/leleka-frontend)
 
 - [ArtistsHub](https://github.com/sandramomo/project-cyte) – a collaborative project built on GitHub. My core contribution was the development of the "Feedback Section." I implemented a responsive design using a mobile-first approach, configured the API integration to fetch review data from the server, and built an interactive review slider utilizing the Swiper.js library.
 
