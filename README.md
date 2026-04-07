@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Marharita Hladkowa
+## 👋 Hi, I'm Marharyta Hladkowa
 Junior Fullstack Developer | React | Node.js | Next.js | JavaScript (ES6+) | TypeScript
 
 Fullstack developer with experience in JavaScript, React, Node.js, Next.js and TypeScript. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Developed performant, scalable, and SEO-friendly multi-page applications (MPAs) utilizing Next.js for effective Server-Side Rendering (SSR) and routing.Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
